@@ -1,0 +1,10 @@
+Jonathan Wu - 437406
+Manil Bastola - 438223
+http://ec2-54-148-37-194.us-west-2.compute.amazonaws.com/~wu.jonathan/News_Site/
+For our creative portion we implemented both a random post of the day as well as a profile page
+To clarify, our random post of the day takes a random post that was made TODAY and displays it at the top of our front page. You may only expand the random post to view the comments if you are logged in
+Our profile page displays all stories and comments submitted by the logged in user
+For aesthetics and ease of navigation, we implemented an expand function on both the random post as well as the stories on the profil page when the user is logged in
+This expand function allows the user to view the story and its cooresponding comments (where before the user only saw the story itself)
+There is no specific login information and no restrictions on the characters
+The delete functionality is found under edit

@@ -1,0 +1,107 @@
+body {
+    background-color: #CEECF5;
+    margin: 0;
+    padding: 0;
+}
+
+.layer0 {
+    width: 640px;
+    margin: 1em auto;
+    background-color: #CEECF5;
+}
+
+.layer1 {
+    width: 640px;
+    margin: 5em auto;
+    padding: 20px 50px;
+    background-color: #2E9AFE;
+    border-radius: 1em;
+}
+
+.layer2 {
+    width: 640px;
+    margin: 5em auto;
+    padding: 20px 50px;
+    background-color: #00BFFF;
+    border-radius: 1em;
+}
+
+.img {
+    margin-top: 15px;
+    position: relative;
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+}
+
+.holder {
+    position: relative;
+    padding: 20px 20px;
+    margin: 50px 0px 0px -40px; 
+    width: 600px;
+    background-color: #81BEF7;
+    display: block;
+    border-radius: 1em;
+}
+
+.story{
+    word-break: keep-all;
+    text-align: left;
+    color: #585858;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.author{
+    word-break: keep-all;
+    text-align: right;
+    color: #585858;
+    font-size:small;
+    opacity:0.7;
+}
+
+.label{
+    word-break: keep-all;
+    color: #585858;
+    font-size:small;
+    opacity:0.7;
+}
+
+.logins{
+    max-width: 600px;
+    position: relative;
+    left: 15px;
+    margin: 5px
+    float: right;
+}
+
+.btns{
+    background: #2E9AFE;
+    width: 100px;
+    height: 50px;
+    margin: 0 0 10px 0;
+    border-radius: 6px;
+    opacity:0.8;
+}
+
+.editStory{
+    background: #F2F2F2;
+    height: 20px;
+    margin: 0 0 18px 520px;
+    border-radius: 6px;
+    opacity:0.7;
+}
+
+.editComment{
+    background: #F2F2F2;
+    height: 20px;
+    border-radius: 6px;
+    opacity:0.7;
+}
+
+.comment{
+   background: #F2F2F2;
+   width: 480px;
+   margin: 1em auto;
+   padding: 10px;
+   border-radius: 1em;
+}
